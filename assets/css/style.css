@@ -14,18 +14,16 @@ body {
     background: #8c9086; 
 }
 
-#two {
+#three {
     background: #8f8681; 
 }
-#three {
-    background: #8c9086; 
+
+.self-portrait {
+    box-shadow: 12px 15px #CEB8A4;
+
 }
 
 #footer {
     background: #8f8681; 
     filter:brightness(50%); 
-}
-
-.footer-icon {
-    width: 200px; 
 }
