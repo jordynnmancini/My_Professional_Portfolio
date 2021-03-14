@@ -1,0 +1,32 @@
+body {
+    background-image: url(assets/css/images/stars.jpeg);
+    font-family: 'Montserrat', sans-serif;
+}
+
+#intro {
+    background: #CEB8A4;
+}
+
+#sidebar {
+    background: #c6aa9d; 
+}
+
+.content {
+    background: #8c9086; 
+}
+
+#two {
+    background: #8f8681; 
+}
+#three {
+    background: #8c9086; 
+}
+
+#footer {
+    background: #8f8681; 
+    filter:brightness(50%); 
+}
+
+.footer-icon {
+    width: 200px; 
+}
