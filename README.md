@@ -9,8 +9,8 @@ Inspired by one of the group project demonstrations from the group, I used Hyper
 ## Demonstration
 ![demonstration](./assets/images/demo.gif)
 
-GitHub Repo: https://github.com/jordynnmancini/Professional_Portfolio_part_2
-Deployed Application: https://jordynnmancini.github.io/Professional_Portfolio_part_2/
+GitHub Repo: https://github.com/jordynnmancini/My_Professional_Portfolio/
+Deployed Application: https://jordynnmancini.github.io/My_Professional_Portfolio/
 
 ## Technologies
 HTML, CSS, SCSS, Javascript, Font Awesome
